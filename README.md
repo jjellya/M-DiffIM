@@ -1,5 +1,8 @@
 <p align="center">
-<h1 align="center">M-DiffIM</h1>
+    <img src=".\README.assets\IMLAB.png" alt="IMLAB" style="zoom:75%;"/>
+	<h1 align="center">M-DiffIM</h1>
+
+
 <p align="center">
     <a href="http://zhiku.scholat.com">
         <img src=https://img.shields.io/badge/Instance%20-Expert%20Finding%20System-green" alt="zhiku" />
@@ -11,6 +14,7 @@
         <img src="https://img.shields.io/badge/License-scholat.com-blue" alt="License">
     </a>                                                                                       
 </p>
+
 
 
 
