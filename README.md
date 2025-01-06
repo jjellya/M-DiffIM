@@ -49,7 +49,7 @@ To get started with IM Lab, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone http://192.168.69.234:8090/Yogurt/im-lab.git
+   git clone https://github.com/jjellya/M-DiffIM.git
    ```
 
 
